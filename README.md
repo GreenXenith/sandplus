@@ -1,10 +1,10 @@
+<<<<<<< HEAD
 
 	  ____                  _   ____  _           
 	 / ___|  __ _ _ __   __| | |  _ \| |_   _ ___ 
 	 \___ \ / _` | '_ \ / _` | | |_) | | | | / __|
 	  ___) | (_| | | | | (_| | |  __/| | |_| \__ \
 	 |____/ \__,_|_| |_|\__,_| |_|   |_|\__,_|___/  ~By GreenDimond
-
 
 
 This mod does NOT add more sand. This mod does however add more sandstone.
