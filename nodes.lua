@@ -7,7 +7,7 @@ minetest.register_node("sandplus:desert_sandstone", {
 	sounds = default.node_sound_stone_defaults(),
 })
 
-minetest.register_node("sandplus:desert_sandstonebrick", {
+minetest.register_node("sandplus:desert_sandstone_brick", {
 	description = "Desert Sandstone Brick",
 	paramtype2 = "facedir",
 	place_param2 = 0,
@@ -32,7 +32,7 @@ minetest.register_node("sandplus:silver_sandstone", {
 	sounds = default.node_sound_stone_defaults(),
 })
 
-minetest.register_node("sandplus:silver_sandstonebrick", {
+minetest.register_node("sandplus:silver_sandstone_brick", {
 	description = "Silver Sandstone Brick",
 	paramtype2 = "facedir",
 	place_param2 = 0,
@@ -64,7 +64,7 @@ stairs.register_stair_and_slab(
 
 stairs.register_stair_and_slab(
 	"desert_sandstonebrick",
-	"sandplus:desert_sandstonebrick",
+	"sandplus:desert_sandstone_brick",
 	{cracky = 2},
 	{"desert_sandstone_brick.png"},
 	"Desert Sandstone Brick Stair",
@@ -94,7 +94,7 @@ stairs.register_stair_and_slab(
 
 stairs.register_stair_and_slab(
 	"silver_sandstonebrick",
-	"sandplus:silver_sandstonebrick",
+	"sandplus:silver_sandstone_brick",
 	{cracky = 2},
 	{"silver_sandstone_brick.png"},
 	"Silver Sandstone Brick Stair",

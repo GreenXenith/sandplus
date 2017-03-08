@@ -16,7 +16,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = 'sandplus:desert_sandstonebrick 4',
+	output = 'sandplus:desert_sandstone_brick 4',
 	recipe = {
 		{'sandplus:desert_sandstone', 'sandplus:desert_sandstone'},
 		{'sandplus:desert_sandstone', 'sandplus:desert_sandstone'},
@@ -48,7 +48,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = 'sandplus:silver_sandstonebrick 4',
+	output = 'sandplus:silver_sandstone_brick 4',
 	recipe = {
 		{'sandplus:silver_sandstone', 'sandplus:silver_sandstone'},
 		{'sandplus:silver_sandstone', 'sandplus:silver_sandstone'},
