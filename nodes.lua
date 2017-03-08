@@ -63,7 +63,7 @@ stairs.register_stair_and_slab(
 )
 
 stairs.register_stair_and_slab(
-	"desert_sandstonebrick",
+	"desert_sandstone_brick",
 	"sandplus:desert_sandstone_brick",
 	{cracky = 2},
 	{"desert_sandstone_brick.png"},
@@ -93,7 +93,7 @@ stairs.register_stair_and_slab(
 )
 
 stairs.register_stair_and_slab(
-	"silver_sandstonebrick",
+	"silver_sandstone_brick",
 	"sandplus:silver_sandstone_brick",
 	{cracky = 2},
 	{"silver_sandstone_brick.png"},
